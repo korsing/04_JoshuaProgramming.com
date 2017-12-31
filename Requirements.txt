@@ -1,0 +1,12 @@
+1. Install PIP
+sudo apt-get install python-pip python-dev build-essential
+
+2. Install Virtual Environment
+sudo pip install virtualenv
+
+3. Install Flask
+pip install Flask
+
+3-1. Update Flask
+pip install --upgrade pip setuptools
+
